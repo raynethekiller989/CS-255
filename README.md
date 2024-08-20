@@ -1,1 +1,9 @@
 # CS-255
+The owner of DriverPass aims to develop a website for driver training. They believe that inadequate training is a major reason for the high number of failed driving tests. 
+
+The client, who is also the owner of DriverPass, wants to create a system where student drivers can register for driving courses. The desired system should allow users to create personal accounts and choose from various driving packages. It will offer online training, online exams, and practical on-road training. Additionally, the owner will have access to all student and employee accounts.
+I believe I handled the design requirements for this system effectively. Designing requirements is a crucial phase in developing the software, and it required meticulous attention to detail.
+I would focus on the functional and non-functional requirements because they are crucial to the project's success and are often subject to change as the project evolves. To enhance stability and minimize frequent changes, I would seek feedback from students and employers. Input from actual users of the software can be invaluable for making improvements.
+I aimed to thoroughly break down all the requirements we were given. By separating the needs of each party involved—the client, the student, the owner, and the employees—I was able to manage and address each aspect more effectively.
+The client’s requirements are crucial because, without them, the project would not meet their needs or be functional. In essence, without a clear understanding of these requirements, the project could not be completed successfully.
+When designing the software, my first step would be to gather the requirements for any new functionalities. After designing the system and integrating these features, I would seek feedback for further analysis. With this feedback, I would then review the system constraints and make any necessary adjustments or improvements to enhance its performance.
